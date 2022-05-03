@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "it's common json response",
+  "main": "index.js",
+  "scripts": {
+    "quiz-server": "json-server  --watch db/api/quiz/questions.json"
+  },
+  "author": "Anand Raja",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
