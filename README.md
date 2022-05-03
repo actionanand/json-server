@@ -6,6 +6,10 @@
 npm run json-server  --watch db/api/quiz/questions.json
 ```
 
+## REST API end points
+
+* https://raw.githubusercontent.com/actionanand/json-server/main/db/api/quiz/questions.json
+
 ## Resources
 
 - [Typicode json-server : npm package](https://www.npmjs.com/package/json-server)
