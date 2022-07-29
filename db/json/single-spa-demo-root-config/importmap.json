@@ -7,6 +7,7 @@
     "single-spa-angular": "https://cdn.jsdelivr.net/gh/actionanand/single-spa-angular@gh-pages/main.js",
     "@actionanand/single-spa-react": "https://cdn.jsdelivr.net/gh/actionanand/single-spa-react@gh-pages/actionanand-single-spa-react.js",
     "@actionanand/single-spa-vue":	"https://cdn.jsdelivr.net/gh/actionanand/single-spa-vue@gh-pages/js/app.98cb4bb6.js",
-    "@actionanand/single-spa-svelte": "https://cdn.jsdelivr.net/gh/actionanand/single-spa-svelte@gh-pages/actionanand-single-spa-svelte.js"
+    "@actionanand/single-spa-svelte": "https://cdn.jsdelivr.net/gh/actionanand/single-spa-svelte@gh-pages/actionanand-single-spa-svelte.js",
+    "@actionanand/single-spa-nav":	"https://cdn.jsdelivr.net/gh/actionanand/single-spa-nav@gh-pages/actionanand-single-spa-nav.js"
   }
 }
