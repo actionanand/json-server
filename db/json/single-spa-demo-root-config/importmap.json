@@ -10,6 +10,7 @@
     "@actionanand/single-spa-svelte": "https://cdn.jsdelivr.net/gh/actionanand/single-spa-svelte@gh-pages/actionanand-single-spa-svelte.js",
     "@actionanand/single-spa-nav":	"https://cdn.jsdelivr.net/gh/actionanand/single-spa-nav@gh-pages/actionanand-single-spa-nav.js",
     "@actionanand/single-spa-footer":	"https://cdn.jsdelivr.net/gh/actionanand/single-spa-footer@gh-pages/actionanand-single-spa-footer.js",
-    "@actionanand/single-spa-404": "https://cdn.jsdelivr.net/gh/actionanand/single-spa-404@gh-pages/actionanand-single-spa-404.js"
+    "@actionanand/single-spa-404": "https://cdn.jsdelivr.net/gh/actionanand/single-spa-404@gh-pages/actionanand-single-spa-404.js",
+    "@actionanand/single-spa-vanilla-js":	"https://cdn.jsdelivr.net/gh/actionanand/single-spa-vanilla-js@gh-pages/index.js"
   }
 }
