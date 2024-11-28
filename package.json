@@ -4,11 +4,14 @@
   "description": "it's common json response",
   "main": "index.js",
   "scripts": {
-    "quiz-server": "json-server  --watch db/api/quiz/questions.json"
+    "server:quiz": "json-server  --watch db/api/quiz/questions.json"
   },
   "author": "Anand Raja",
   "license": "ISC",
   "devDependencies": {
     "json-server": "^0.17.0"
+  },
+  "engines": {
+    "node": "18"
   }
 }
