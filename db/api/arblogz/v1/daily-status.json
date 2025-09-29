@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2025-09-29 14:30",
+    "content": "API-sourced daily update content here.\n\nMultiple paragraphs supported.",
+    "title": "Optional Custom Title"
+  },
+  {
+    "date": "2025-09-29 16:45", 
+    "content": "Another API update",
+    "title": "Breaking News"
+  }
+]
