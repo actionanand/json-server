@@ -1,17 +1,12 @@
 [
   {
+    "date": "2025-09-30 20:30",
+    "content": "Introducing Status Messages! \n\nNow I can share quick updates, announcements, and thoughts directly with you. These messages appear at the top of your feeds and disappear after 24 hours – keeping everything fresh and current.\n\nWatch for the green 'DAILY' badge for in-app updates and the gray 'LIVE' badge for API messages. It's my new way to stay connected with you in real-time. No more waiting for full posts when I have something quick to share!",
+    "title": "New Feature Alert: Live Status Messages"
+  },
+  {
     "date": "2025-09-29 14:30",
     "content": "API-sourced daily update content here.\n\nMultiple paragraphs supported.",
     "title": "Optional Custom Title"
-  },
-  {
-    "date": "2025-09-28 16:45", 
-    "content": "Another API old update",
-    "title": "Breaking News"
-  },
-  {
-    "date": "2025-09-30 00:10", 
-    "content": "Another API update",
-    "title": "Breaking News"
   }
 ]
